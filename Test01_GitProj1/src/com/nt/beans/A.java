@@ -13,5 +13,12 @@ public class A {
 		System.out.println("abc.123");
 
 	}
+	public void m2() {
+
+		System.out.println("dev m1::12345");
+		System.out.println("abc.123");
+		
+
+	}
 
 }
