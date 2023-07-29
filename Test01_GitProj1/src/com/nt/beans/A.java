@@ -10,6 +10,7 @@ public class A {
 	public void m1() {
 
 		System.out.println("dev m1::12345");
+		System.out.println("abc.123");
 
 	}
 
